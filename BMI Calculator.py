@@ -3,8 +3,6 @@ height = float(input("enter your height in m: "))
 weight = float(input("enter your weight in kg: "))
 
 
-#Write your code below this line 👇
-
 bmi = round(weight/(height ** 2))
 
 print(bmi)
